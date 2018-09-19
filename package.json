@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-myiahm.git"
+  },
+  "author": "JaiMyiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-myiahm/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-fall-2018/backend-nodejs-solo-myiahm#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "client": "0.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.15"
+  }
+}
